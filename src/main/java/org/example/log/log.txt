@@ -1,0 +1,41 @@
+2024-05-02 13:46:58 Закрытие потоков у класса org.example.client.Client
+2024-05-02 14:02:16 Server started!
+2024-05-02 14:03:20 Test message LoggerTest
+2024-05-02 14:03:36 Test message LoggerTest
+2024-05-02 14:04:11 Test message LoggerTest
+2024-05-02 14:04:18 Test message LoggerTest
+2024-05-02 14:04:27 Test message LoggerTest
+2024-05-02 14:04:57 Test message LoggerTest
+2024-05-02 14:05:14 Ошибка в конструкторе у класса org.example.client.Client
+2024-05-02 14:05:14 Закрытие потоков у класса org.example.client.Client
+2024-05-02 14:05:37 Клиенту предлагают ввести свой никнейм
+2024-05-02 14:05:53 Max cames now
+2024-05-02 14:06:02 Max: ddd
+2024-05-02 14:06:12 Max: Hello
+2024-05-02 14:06:26 Ошибка в методе run() у класса org.example.server.Server$Connection
+2024-05-02 14:06:26 Закрытие потоков у класса org.example.server.Server$Connection
+2024-05-02 14:06:26 Клиенту предлагают ввести свой никнейм
+2024-05-02 14:06:36 ddd cames now
+2024-05-02 14:06:59 ddd has left
+2024-05-02 14:06:59 Закрытие потоков у класса org.example.client.Client
+2024-05-02 14:06:59 Закрытие потоков у класса org.example.server.Server$Connection
+2024-05-02 14:07:53 Клиенту предлагают ввести свой никнейм
+2024-05-02 14:08:15 Don Pedro cames now
+2024-05-02 14:08:21 Don Pedro: Hi
+2024-05-02 14:08:53 Ошибка в методе run() у класса org.example.server.Server$Connection
+2024-05-02 14:08:53 Закрытие потоков у класса org.example.server.Server$Connection
+2024-05-02 14:08:54 Клиенту предлагают ввести свой никнейм
+2024-05-02 14:09:02 Max cames now
+2024-05-02 14:09:05 Max: hi
+2024-05-02 14:09:18 Max: 
+2024-05-02 14:09:23 Max has left
+2024-05-02 14:09:23 Закрытие потоков у класса org.example.client.Client
+2024-05-02 14:09:23 Закрытие потоков у класса org.example.server.Server$Connection
+2024-05-08 08:53:01 Server started!
+2024-05-08 08:53:06 Ошибка в конструкторе у класса org.example.client.Client
+2024-05-08 08:53:06 Закрытие потоков у класса org.example.client.Client
+2024-05-08 08:54:12 Клиенту предлагают ввести свой никнейм
+2024-05-08 08:54:20 Max cames now
+2024-05-08 08:54:34 Max has left
+2024-05-08 08:54:34 Закрытие потоков у класса org.example.client.Client
+2024-05-08 08:54:34 Закрытие потоков у класса org.example.server.Server$Connection
