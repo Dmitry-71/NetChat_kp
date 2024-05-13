@@ -39,3 +39,5 @@
 2024-05-08 08:54:34 Max has left
 2024-05-08 08:54:34 Закрытие потоков у класса org.example.client.Client
 2024-05-08 08:54:34 Закрытие потоков у класса org.example.server.Server$Connection
+2024-05-13 09:34:03 Ошибка в конструкторе у класса org.example.client.Client
+2024-05-13 09:34:03 Закрытие потоков у класса org.example.client.Client
