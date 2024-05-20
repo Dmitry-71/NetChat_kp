@@ -9,9 +9,6 @@ import java.util.Properties;
 public class Config {
     private static Config instance;
     private static final Logger LOGGER = Logger.getInstance();
-//    private static final String PATH = "C:\\Users\\User\\OneDrive\\Рабочий стол\\" +
-//            "Работа\\Тест\\Учеба\\NetChat_kp\\config\\settings.properties";
-
     private static final String PATH = "./config/settings.properties";
 
     private int port;
